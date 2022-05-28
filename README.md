@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @hildar
-- 👀 I’m interested in science, policy and trips
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on scientists, developers, tripers, libertarians and any other good folks 
+- 👀 Hi, I’m interested in science, policy and trips
+- 🌱 Currently learning Data Science
+- 💞️ looking to collaborate on scientists, developers, tripers, libertarians and any other good folks 
 - 📫 How to reach me: khusainov.ildar.rish@gmail.com
 
 <!---
