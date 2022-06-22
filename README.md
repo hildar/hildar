@@ -1,4 +1,4 @@
-- 👀 Hi, I’m interested in science, society and trips
+- 👀 Hi everyone, I’m interested in science, society and trips
 - 🌱 Currently learning Data Science
 - 💞️ looking to collaborate on scientists, developers, tripers and any other good folks 
 
